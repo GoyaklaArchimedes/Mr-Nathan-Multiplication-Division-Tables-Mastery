@@ -1,1 +1,1 @@
-# Mr-Nathan-Multiplication-Division-Tables-Mastery
+Interactive multiplication & division fluency tool covering the 6×, 7×, 8× and 9× tables. Includes flashcard quizzes, combined flash test, spaced repetition, progress tracking, certificates, printable tests, and teacher settings. Works in any browser. No app or subscription needed.
